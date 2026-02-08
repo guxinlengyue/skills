@@ -15,4 +15,4 @@
 
 - `SKILL.md` 使用说明
 - `agents/openai.yaml` UI 元数据
-- `scripts/` 和/或 `references/`（按需）
+- `scripts/` 或 `references/`
