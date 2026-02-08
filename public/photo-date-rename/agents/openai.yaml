@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Date Rename"
+  short_description: "Rename photos by Date Taken; infer missing dates."
+  default_prompt: "Rename photos by Date Taken and optionally infer missing dates from similar images."

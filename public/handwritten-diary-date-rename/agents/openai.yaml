@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handwritten Diary Date Rename"
+  short_description: "Rename diary photos by handwritten dates, incl. multi-date."
+  default_prompt: "识别手写日记照片中的日期并重命名，若一张图片有多个日期，按顺序用下划线拼接。"
