@@ -1,0 +1,4 @@
+interface:
+  display_name: "CN Output Integrity"
+  short_description: "Check Chinese output integrity"
+  default_prompt: "Ensure Chinese output is not corrupted into '?' and fix encoding before delivery."
