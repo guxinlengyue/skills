@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF Figure Annotate"
+  short_description: "Explain figures then annotate"
+  default_prompt: "Explain each figure in a PDF and add the explanations as highlight comments without removing existing annotations."

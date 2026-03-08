@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF Highlight Comments"
+  short_description: "Highlight text and attach comments"
+  default_prompt: "Highlight specific phrases in a PDF and attach comment text to the highlight annotations (no sticky notes)."
